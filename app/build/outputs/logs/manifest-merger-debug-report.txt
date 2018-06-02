@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9096c90aa26af6a7baa3bfe52f5fe173\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e5c06ad1fadb982c0bf22ecc234c194c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d864e5608c637383b61d6f3079e881c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\02258864c567d97378b8449e906623d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\25690b3c0ef8b8636cadc74a66d33251\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c94b78679e392e50546738ea59abee12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\028980b788710c4ffc809239311ba82e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6abbc385d1587fd688e1848f07409f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a3d47fd7e6bffd5a26edc47846f9ad77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\1af3d22c7bda5596d5eaff086f07b890\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\90a7435ae4d82c548cb63479bd19b565\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\52b5ebb5be218f502591066171cf9b89\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7712cc1e8c37c240583a68678063f7d7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c172a5a15d7e1c04cef9524851b6cbda\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4115c88a01658edb56c3cae37df0f88\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5cc1679fec6af520e6b6e3c8198bc267\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:7:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:8:5-83
+	android:name
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:10:5-26:19
+	android:supportsRtl
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.windo.requeprogra2.LoginActivity
+ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:18:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9096c90aa26af6a7baa3bfe52f5fe173\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9096c90aa26af6a7baa3bfe52f5fe173\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e5c06ad1fadb982c0bf22ecc234c194c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e5c06ad1fadb982c0bf22ecc234c194c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d864e5608c637383b61d6f3079e881c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d864e5608c637383b61d6f3079e881c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\02258864c567d97378b8449e906623d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\02258864c567d97378b8449e906623d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\25690b3c0ef8b8636cadc74a66d33251\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\25690b3c0ef8b8636cadc74a66d33251\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c94b78679e392e50546738ea59abee12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c94b78679e392e50546738ea59abee12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\028980b788710c4ffc809239311ba82e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\028980b788710c4ffc809239311ba82e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6abbc385d1587fd688e1848f07409f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6abbc385d1587fd688e1848f07409f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a3d47fd7e6bffd5a26edc47846f9ad77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a3d47fd7e6bffd5a26edc47846f9ad77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\1af3d22c7bda5596d5eaff086f07b890\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\1af3d22c7bda5596d5eaff086f07b890\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\90a7435ae4d82c548cb63479bd19b565\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\90a7435ae4d82c548cb63479bd19b565\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\52b5ebb5be218f502591066171cf9b89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\52b5ebb5be218f502591066171cf9b89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7712cc1e8c37c240583a68678063f7d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7712cc1e8c37c240583a68678063f7d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c172a5a15d7e1c04cef9524851b6cbda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c172a5a15d7e1c04cef9524851b6cbda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4115c88a01658edb56c3cae37df0f88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4115c88a01658edb56c3cae37df0f88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5cc1679fec6af520e6b6e3c8198bc267\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\gmc_2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5cc1679fec6af520e6b6e3c8198bc267\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gmc_2\AndroidStudioProjects\requeProgra2-20180601T230600Z-001\requeProgra2\app\src\main\AndroidManifest.xml
